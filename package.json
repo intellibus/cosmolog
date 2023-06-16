@@ -1,7 +1,7 @@
 {
   "type": "module",
   "name": "cosmolog",
-  "version": "1.0.316",
+  "version": "1.0.317",
   "description": "Logging Framework For The Open Source Universe",
   "author": "Intellibus Labs <labs@intellibus.com> (https://intellibus.dev/)",
   "license": "MIT",
